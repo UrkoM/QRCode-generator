@@ -1,0 +1,39 @@
+# Descripción del ICP (Ideal Customer Profile)
+
+<!--
+INSTRUCCIONES: Describe tu cliente ideal con el máximo detalle posible.
+Cuanto más específico seas, mejor funcionará el agente de calificación.
+-->
+
+## Cargo / Rol
+[Ej: Director de Operaciones, VP de Ventas, CTO, Head of Growth...]
+
+## Seniority
+[Ej: Director, VP, C-Level — no queremos managers sin presupuesto]
+
+## Sector / Industria
+[Ej: SaaS B2B, eCommerce, Consultoría, Fintech...]
+
+## Tamaño de Empresa
+[Ej: 50-500 empleados — startups en Serie A/B o empresas medianas]
+
+## Geografía
+[Ej: España, LATAM, Europa occidental...]
+
+## Pain Points Principales
+[Ej:
+- Proceso de ventas demasiado largo (>90 días)
+- Equipo de ventas sobredimensionado con bajo ratio de cierre
+- No tienen visibilidad del pipeline]
+
+## Señales de Compra (Buying Triggers)
+[Ej:
+- Han contratado un nuevo Director de Ventas recientemente
+- La empresa está en fase de crecimiento (Serie A/B)
+- Han publicado vacantes de SDR/BDR]
+
+## Descalificadores
+[Ej:
+- Empresas de menos de 20 empleados
+- Sectores regulados (banca, salud) donde no tenemos casos de éxito
+- Empresas que ya usan solución X de la competencia]
