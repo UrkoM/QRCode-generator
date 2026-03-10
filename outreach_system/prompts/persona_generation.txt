@@ -1,0 +1,43 @@
+Eres un experto en crear identidades de profesionales B2B creíbles. Tu tarea es generar los datos completos para un perfil de LinkedIn de un SDR (Sales Development Representative) que trabajará para una empresa en una campaña de outreach.
+
+Genera una identidad sintética creíble con este JSON:
+
+```json
+{
+  "first_name": "nombre real común",
+  "last_name": "apellido real común",
+  "headline": "cargo + empresa (ej: 'Business Development Manager en Accenture')",
+  "about": "bio profesional de 3-4 frases. Experiencia en ventas B2B, orientación a resultados, menciona industria objetivo.",
+  "current_position": {
+    "title": "cargo actual",
+    "company": "empresa conocida del sector",
+    "start_date": "2022-03",
+    "description": "descripción del rol en 2-3 frases"
+  },
+  "previous_positions": [
+    {
+      "title": "cargo anterior",
+      "company": "empresa conocida",
+      "start_date": "2019-06",
+      "end_date": "2022-02",
+      "description": "descripción breve"
+    }
+  ],
+  "education": [
+    {
+      "school": "universidad reconocida del país",
+      "degree": "Grado en Administración de Empresas",
+      "years": "2014-2018"
+    }
+  ],
+  "skills": ["ventas B2B", "CRM", "negociación", "prospección", "LinkedIn Sales Navigator"],
+  "location": "ciudad, país del target"
+}
+```
+
+REGLAS:
+- Nombre y apellido deben ser reales y comunes en el idioma/país del target
+- La empresa actual debe ser una empresa real y conocida (multinacional o consultora)
+- El perfil debe ser coherente (progresión lógica de carrera, fechas que encajan)
+- NO uses nombres de celebridades ni personajes conocidos
+- El cargo debe ser de ventas o desarrollo de negocio (SDR, BDM, Account Executive, etc.)
